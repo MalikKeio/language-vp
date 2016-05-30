@@ -1,0 +1,17 @@
+{
+  "name": "language-vp",
+  "version": "0.0.0",
+  "description": "Allows to write dialogues for Valkyrie Anatomia",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MalikKeio/language-vp"
+  },
+  "bugs": {
+    "url": "https://github.com/MalikKeio/language-vp/issues"
+  },
+  "license": "MIT"
+}

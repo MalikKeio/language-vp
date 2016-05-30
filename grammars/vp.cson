@@ -1,0 +1,9 @@
+'scopeName': 'source.vp'
+'name': 'Valkyrie Profile'
+'fileTypes': ['vp']
+'patterns': [
+	{
+		'match': '^[^\t]*$',
+		'name': 'entity name function vp'
+	}
+]
