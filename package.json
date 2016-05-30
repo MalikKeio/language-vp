@@ -1,6 +1,7 @@
 {
   "name": "language-vp",
   "version": "0.0.0",
+  "main": "./lib/vp",
   "description": "Allows to write dialogues for Valkyrie Anatomia",
   "engines": {
     "atom": "*"
