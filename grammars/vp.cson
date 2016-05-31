@@ -5,5 +5,9 @@
 	{
 		'match': '^[^\t]*$',
 		'name': 'entity name function vp'
+	},
+	{
+		'match': '^\t{2}.*$'
+		'name': 'constant language vp'
 	}
 ]
