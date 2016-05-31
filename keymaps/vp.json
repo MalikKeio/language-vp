@@ -1,7 +1,13 @@
 {
   "atom-workspace": {
     "ctrl-alt-t": "language-vp:tententen",
-    "ctrl-alt-v": "language-vp:valkyrie",
-    "ctrl-alt-/": "language-vp:unknown"
+    "ctrl-alt-/": "language-vp:unknown",
+    "ctrl-alt-o": "language-vp:odin",
+    "ctrl-alt-l": "language-vp:lenneth",
+    "ctrl-alt-z": "language-vp:zephyros",
+    "ctrl-alt-v": "language-vp:vanir",
+    "ctrl-alt-shift- h": "language-vp:huginn",
+    "ctrl-alt-m": "language-vp:muninn",
+    "ctrl-alt-j": "language-vp:jeanne"
   }
 }
