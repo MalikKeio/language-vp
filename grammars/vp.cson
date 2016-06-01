@@ -3,7 +3,7 @@
 'fileTypes': ['vp']
 'patterns': [
 	{
-		'match': '^---$'
+		'match': '^---|!!!$'
 		'name': 'keyword language vp'
 	},
 	{

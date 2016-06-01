@@ -6,8 +6,10 @@
     "ctrl-alt-l": "language-vp:lenneth",
     "ctrl-alt-z": "language-vp:zephyros",
     "ctrl-alt-v": "language-vp:vanir",
-    "ctrl-alt-shift- h": "language-vp:huginn",
+    "ctrl-alt-shift-h": "language-vp:huginn",
     "ctrl-alt-m": "language-vp:muninn",
-    "ctrl-alt-j": "language-vp:jeanne"
+    "ctrl-alt-j": "language-vp:jeanne",
+    "ctrl-alt-shift-s": "language-vp:senna",
+    "ctrl-alt-c": "language-vp:caradoc"
   }
 }
