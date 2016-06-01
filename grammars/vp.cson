@@ -3,6 +3,10 @@
 'fileTypes': ['vp']
 'patterns': [
 	{
+		'match': '^---$'
+		'name': 'keyword language vp'
+	},
+	{
 		'match': '^[^\t]*$',
 		'name': 'entity name function vp'
 	},
