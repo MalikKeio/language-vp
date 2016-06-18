@@ -13,5 +13,9 @@
 	{
 		'match': '^\t{2}.*$'
 		'name': 'constant language vp'
+	},
+	{
+		'match': '//.*$'
+		'name': 'comment language vp'
 	}
 ]
